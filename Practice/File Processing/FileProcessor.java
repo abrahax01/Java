@@ -1,3 +1,4 @@
+// Program to practice file processing (open, read, write a file)
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
